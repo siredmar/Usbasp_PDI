@@ -1,0 +1,5 @@
+libavrdude_a-confwin.o: confwin.c /usr/include/stdc-predef.h avrdude.h
+
+/usr/include/stdc-predef.h:
+
+avrdude.h:
